@@ -6,9 +6,9 @@ Master Thesis - Technische Universität Chemnitz
 
 Supervisor: Prof Dr. Madhukar Chandra, Cosupervisor: M. Sc. Emre Colak
 
-⚠️Full MATLAB code is stored in a private repository. Access available upon request via e-mail.
+🔒Full MATLAB code is stored in a private repository. Access available upon request via e-mail.
 
-[Master thesis summary (Pdf)](docs/master-thesis-summary.pdf): Methods, dataset and results in detail.
+⚠️[Project Summary (Pdf)](docs/master-thesis-summary.pdf): Methods, dataset and results in detail.
 
 ### Result snapshots
 
