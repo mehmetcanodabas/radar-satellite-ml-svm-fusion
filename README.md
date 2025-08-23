@@ -8,7 +8,7 @@ Supervisor: Prof Dr. Madhukar Chandra, Cosupervisor: M. Sc. Emre Colak
 
 🔒Full MATLAB code is stored in a private repository. Access available upon request via e-mail.
 
-**⚠️[Project summary (Pdf)](docs/project-summary.pdf): Detailed methods, dataset description, and results are provided in this PDF.**
+**⚠️[Project summary (Pdf)](docs/master-thesis-summary.pdf): Detailed methods, dataset description, and results are provided in this PDF.**
 
 ### Result snapshots
 
