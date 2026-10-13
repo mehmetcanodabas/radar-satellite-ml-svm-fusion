@@ -23,4 +23,3 @@ Supervisor: Prof Dr. Madhukar Chandra, Cosupervisor: M. Sc. Emre Colak
 [Data fusion](docs/results/Data-fusion-all-predictions.jpg): Visualization of the data fusion results with all predicted pixels.
 
 **Keywords:** Remote Sensing, Machine Learning, Support Vector Machine (SVM), Multi-Sensor Data Fusion, Weather Radar, Passive Satellite Imagery, Wind Turbine Detection, Feature Engineering, Image Classification.
-
